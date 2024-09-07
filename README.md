@@ -43,8 +43,3 @@ https://yoursurveys.xyz
 4. Start frontend by running `npm run dev`
 5. Open http://localhost:3000
 
-
-## License
-
-The project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
